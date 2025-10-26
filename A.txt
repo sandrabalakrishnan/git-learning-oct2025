@@ -1,0 +1,2 @@
+user2 edited A.txt
+hello user2
