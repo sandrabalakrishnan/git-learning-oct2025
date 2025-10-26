@@ -1,2 +1,2 @@
-user1 updated A.txt
-this is the second line
+user and user1 content is changed
+this is the final code
